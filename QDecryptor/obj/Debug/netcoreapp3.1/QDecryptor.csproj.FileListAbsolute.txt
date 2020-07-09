@@ -1,0 +1,15 @@
+C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\obj\Debug\netcoreapp3.1\QDecryptor.AssemblyInfoInputs.cache
+C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\obj\Debug\netcoreapp3.1\QDecryptor.AssemblyInfo.cs
+C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\obj\Debug\netcoreapp3.1\QDecryptor.csproj.CoreCompileInputs.cache
+C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\bin\Debug\netcoreapp3.1\QDecryptor.exe
+C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\bin\Debug\netcoreapp3.1\QDecryptor.deps.json
+C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\bin\Debug\netcoreapp3.1\QDecryptor.runtimeconfig.json
+C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\bin\Debug\netcoreapp3.1\QDecryptor.runtimeconfig.dev.json
+C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\bin\Debug\netcoreapp3.1\QDecryptor.dll
+C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\bin\Debug\netcoreapp3.1\QDecryptor.pdb
+C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\obj\Debug\netcoreapp3.1\QDecryptor.dll
+C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\obj\Debug\netcoreapp3.1\QDecryptor.pdb
+C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\obj\Debug\netcoreapp3.1\QDecryptor.genruntimeconfig.cache
+C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\obj\Debug\netcoreapp3.1\QDecryptor.csprojAssemblyReference.cache
+C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\obj\Debug\netcoreapp3.1\QDecryptor.Form1.resources
+C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\obj\Debug\netcoreapp3.1\QDecryptor.csproj.GenerateResource.cache
