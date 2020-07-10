@@ -8,3 +8,13 @@ C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\obj\Release\netcoreapp3.1\QDec
 C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\obj\Release\netcoreapp3.1\QDecryptor.csproj.CoreCompileInputs.cache
 C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\obj\Release\netcoreapp3.1\QDecryptor.dll
 C:\Users\D3bug\source\repos\QDecryptor\QDecryptor\obj\Release\netcoreapp3.1\QDecryptor.genruntimeconfig.cache
+C:\Users\D3bug\Desktop\QDecryptor\QDecryptor\bin\Release\netcoreapp3.1\QDecryptor.exe
+C:\Users\D3bug\Desktop\QDecryptor\QDecryptor\bin\Release\netcoreapp3.1\QDecryptor.deps.json
+C:\Users\D3bug\Desktop\QDecryptor\QDecryptor\bin\Release\netcoreapp3.1\QDecryptor.runtimeconfig.json
+C:\Users\D3bug\Desktop\QDecryptor\QDecryptor\bin\Release\netcoreapp3.1\QDecryptor.runtimeconfig.dev.json
+C:\Users\D3bug\Desktop\QDecryptor\QDecryptor\bin\Release\netcoreapp3.1\QDecryptor.dll
+C:\Users\D3bug\Desktop\QDecryptor\QDecryptor\obj\Release\netcoreapp3.1\QDecryptor.AssemblyInfoInputs.cache
+C:\Users\D3bug\Desktop\QDecryptor\QDecryptor\obj\Release\netcoreapp3.1\QDecryptor.AssemblyInfo.cs
+C:\Users\D3bug\Desktop\QDecryptor\QDecryptor\obj\Release\netcoreapp3.1\QDecryptor.csproj.CoreCompileInputs.cache
+C:\Users\D3bug\Desktop\QDecryptor\QDecryptor\obj\Release\netcoreapp3.1\QDecryptor.dll
+C:\Users\D3bug\Desktop\QDecryptor\QDecryptor\obj\Release\netcoreapp3.1\QDecryptor.genruntimeconfig.cache

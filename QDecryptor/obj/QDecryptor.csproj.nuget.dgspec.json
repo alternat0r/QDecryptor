@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\D3bug\\source\\repos\\QDecryptor\\QDecryptor\\QDecryptor.csproj": {}
+    "C:\\Users\\D3bug\\Desktop\\QDecryptor\\QDecryptor\\QDecryptor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\D3bug\\source\\repos\\QDecryptor\\QDecryptor\\QDecryptor.csproj": {
+    "C:\\Users\\D3bug\\Desktop\\QDecryptor\\QDecryptor\\QDecryptor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\D3bug\\source\\repos\\QDecryptor\\QDecryptor\\QDecryptor.csproj",
+        "projectUniqueName": "C:\\Users\\D3bug\\Desktop\\QDecryptor\\QDecryptor\\QDecryptor.csproj",
         "projectName": "QDecryptor",
-        "projectPath": "C:\\Users\\D3bug\\source\\repos\\QDecryptor\\QDecryptor\\QDecryptor.csproj",
+        "projectPath": "C:\\Users\\D3bug\\Desktop\\QDecryptor\\QDecryptor\\QDecryptor.csproj",
         "packagesPath": "C:\\Users\\D3bug\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\D3bug\\source\\repos\\QDecryptor\\QDecryptor\\obj\\",
+        "outputPath": "C:\\Users\\D3bug\\Desktop\\QDecryptor\\QDecryptor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\D3bug\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\D3bug\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\D3bug\\.nuget\\packages"
+    ]
+  }
+}
