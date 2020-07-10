@@ -1,12 +1,12 @@
 # QDecryptor
 A quick decryptor specifically for Quasar-based malware or similar usage of AES decryption function.
 
-![1](https://#)
+![1](https://github.com/alternat0r/QDecryptor/blob/master/ani1.gif)
 
 ## Things to change
 - You need to change variable content with your needs.
 
-![2](https://#)
+![2](https://github.com/alternat0r/QDecryptor/blob/master/screenshot1.png)
 
 
 ## Requirement
